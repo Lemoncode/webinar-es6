@@ -1,6 +1,6 @@
 # Filter
 
-It returns a new array with all elements that pass condition.
+It returns a new array with all elements that pass the condition.
 
 [Demo bookings failed](https://codepen.io/crsanti/pen/VWWYrx)
 
@@ -69,7 +69,7 @@ console.log(bookingsVip);
 
 # Find
 
-It returns first element that pass condition.
+It returns first element that pass the condition.
 
 [Demo pass condition](https://codepen.io/crsanti/pen/LLLEQQ)
 
