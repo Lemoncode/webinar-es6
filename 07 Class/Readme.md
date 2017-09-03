@@ -6,6 +6,8 @@ concept. For example a car needs tires and start its engine. Although this conce
 is new in ES6, it's an old mate that has been a round for a while. Because class, 
 is just a syntactic sugar for the prototype pattern. 
 
+https://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/
+
 
 # Steps
 
