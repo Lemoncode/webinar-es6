@@ -45,7 +45,7 @@ setTimeout(function () {
 }, 500);
 ```
 
-Even closure is not a new future of JavaScript is the startting point to achieve
+Even closure is not a new feature of JavaScript is the startting point to achieve
 patterns, such as reveal pattern. When we use bundling technologies that supports
 ES6 modules, behind the scenes they use pattern like reveling pattern whic base
 is the clousure.
