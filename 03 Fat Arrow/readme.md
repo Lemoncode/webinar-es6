@@ -51,10 +51,10 @@ setTimeout(() => {
   console.log('Executed after one second.');
 }, 1000);
 
-[Codepen example](https://codepen.io/crsanti/pen/eEojQV)
-
 // Will output "Executed after one second." after a second.
 ```
+
+[Codepen example](https://codepen.io/crsanti/pen/eEojQV)
 
 Arrow functions also keeps a cleaner way of handling the current object context:
 
